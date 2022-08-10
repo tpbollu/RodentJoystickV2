@@ -1,5 +1,5 @@
 # RodentJoystickV2
-MATLAB code for analyzing forelimb trajectories kinetic and kinematic trajectories. 
+MATLAB code for analyzing forelimb kinetic and kinematic trajectories. 
 
 Successor to:https://github.com/GoldbergLab/RodentJoystick
 
